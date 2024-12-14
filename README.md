@@ -16,7 +16,7 @@ This repository is dedicated to generating high-quality English paraphrases usin
 
 ## Introduction
 
-Paraphrase generation is a fundamental task in natural language processing (NLP) with applications in content rephrasing, text augmentation, and improving model robustness. This repository utilizes powerful pretrained Transformer models, such as BERT, GPT, or T5, fine-tuned on specialized paraphrase datasets to generate diverse and contextually accurate paraphrases.
+Paraphrase generation is a fundamental task in natural language processing (NLP) with applications in content rephrasing, text augmentation, and improving model robustness. This repository utilizes powerful pretrained Transformer model that is T5 fine-tuned on specialized paraphrase datasets to generate diverse and contextually accurate paraphrases.
 
 ## Features
 
